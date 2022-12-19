@@ -1,0 +1,117 @@
+.article .articleHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.article h1 {
+  /* Name */
+
+  width: 874px;
+  /* height: 190px; */
+
+  /* Headings/H1 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 112%;
+  /* or 95px */
+
+  letter-spacing: -1px;
+
+  /* Blue */
+
+  color: #4442e3;
+
+  /* Inside auto layout */
+
+  /* flex: none;
+  order: 0;
+  flex-grow: 0; */
+}
+
+.article h2 {
+  /* position: absolute; */
+  /* width: 575px; */
+  width: 874px;
+
+  height: 62px;
+  /* left: 0px;
+  top: 706px; */
+
+  /* Headings/H2 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 120%;
+  /* or 62px */
+
+  letter-spacing: -1px;
+
+  color: #000000;
+}
+
+/* .article h3 {
+} */
+
+.article h4 {
+  /* width: 437px; */
+
+  width: 874px;
+
+  height: 34px;
+
+  /* Headings/H4 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 120%;
+  /* identical to box height, or 34px */
+
+  /* Black */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  /* flex: none;
+  order: 0;
+  flex-grow: 0; */
+}
+
+/* .article h5 {
+}
+
+.article h6 {
+} */
+
+.article p {
+  width: 874px;
+  /* height: 225px; */
+
+  /* Body/Large */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  text-align: justify;
+  /* or 25px */
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  /* flex: none;
+  order: 5;
+  flex-grow: 0;
+  z-index: 5; */
+}

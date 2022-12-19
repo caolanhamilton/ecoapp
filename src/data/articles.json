@@ -1,0 +1,126 @@
+[
+  {
+    "type": "Design",
+    "description": "3 Major Trends Driving the Future of Travel",
+    "person": "Dr. Vanina Delobelle",
+    "article": {
+      "sections": [
+        {
+          "endTitle": "Key Takeaways",
+          "paragraphs": [
+            { "p": "You should always remember the following points ..." }
+          ]
+        }
+      ]
+    }
+  },
+
+  {
+    "type": "Design",
+    "description": "How to Reduce the Environmental Impact of Your Digital Products",
+    "person": "Hamish Johnston",
+    "article": {
+      "sections": [
+        {
+          "subheading1": "6 steps that drive a more responsible design – and boost your business’ KPIs along the way",
+          "subheading2": "Why ‘heavier’ digital experiences matter",
+          "paragraphs": [
+            {
+              "p": "Our online habits have a surprising impact on the environment."
+            },
+            {
+              "p": "Each time you take an action online, from visiting a web page to sending an email or interacting with content on social media, data is pulled from a physical server somewhere around the world. "
+            },
+            {
+              "p": "Making this data available 24/7 comes at a cost – both to the planet and a business’ bottom line. Large amounts of energy are needed to fulfil these data requests, which result in increased carbon emissions."
+            },
+            {
+              "p": "For example, Cristiano Ronaldo currently has around 470 million followers on Instagram. The power needed for a single post to reach each of his followers is equivalent to adding 20 UK households to the grid for an entire year."
+            },
+            {
+              "p": "It’s a bit like lifting a weight: The heavier it is, the more effort required to lift, and the more energy you burn during the process. This same principle applies online, because the more content your page or product contains (or the “heavier” it is in kB), the more energy and effort required to pull that “weight” from the server."
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  {
+    "type": "Innovation",
+    "description": "Business Design and Emotional Intelligence",
+    "person": "Dr. Vanina Delobelle",
+    "article": {
+      "sections": [
+        {
+          "paragraphs": [
+            {
+              "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et tempora placeat, quos minima assumenda, consequuntur eum tenetur debitis in nemoaccusantium asperiores? Quis reprehenderit sed et expedita quas, repudiandae ipsam!"
+            }
+          ],
+          "list": [{ "item": "a" }, { "item": "b" }],
+          "image": {
+            "src": "env1.png",
+            "width": "500px",
+            "height": "500px"
+          }
+        },
+        {
+          "image": {
+            "src": "env1.png",
+            "width": "100%",
+            "height": "100%"
+          },
+          "subheading2": "Innovation",
+          "paragraphs": [
+            {
+              "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et tempora placeat, quos minima assumenda, consequuntur eum tenetur debitis in nemoaccusantium asperiores? Quis reprehenderit sed et expedita quas, repudiandae ipsam!"
+            }
+          ]
+        },
+        {
+          "subheading2": "Digital Transformation",
+          "paragraphs": [
+            {
+              "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et tempora placeat, quos minima assumenda, consequuntur eum tenetur debitis in nemoaccusantium asperiores? Quis reprehenderit sed et expedita quas, repudiandae ipsam!"
+            }
+          ]
+        },
+        {
+          "subheading2": "Business Design",
+          "paragraphs": [
+            {
+              "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et tempora placeat, quos minima assumenda, consequuntur eum tenetur debitis in nemoaccusantium asperiores? Quis reprehenderit sed et expedita quas, repudiandae ipsam!"
+            }
+          ]
+        },
+        {
+          "endTitle": "To Go Further",
+          "paragraphs": [
+            {
+              "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Et tempora placeat, quos minima assumenda, consequuntur eum tenetur debitis in nemoaccusantium asperiores? Quis reprehenderit sed et expedita quas, repudiandae ipsam!"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "type": "Strategy",
+    "description": "Better Care is Possible: The Future of Pharmacy and How We Get There",
+    "person": "Dr. Vanina Delobelle",
+    "article": {}
+  },
+  {
+    "type": "All",
+    "description": "station wagon",
+    "person": "Dr. Vanina Delobelle",
+    "article": {}
+  },
+  {
+    "type": "Junk",
+    "description": "Some description of Junk",
+    "person": "Dr. Whatever you think",
+    "article": {}
+  }
+]

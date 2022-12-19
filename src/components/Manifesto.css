@@ -1,0 +1,172 @@
+.m1 {
+  width: 810px;
+  /* height: 190px; */
+
+  /* Headings/H1 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 112%;
+  /* or 95px */
+
+  letter-spacing: -1px;
+
+  /* White */
+
+  color: #ffffff;
+  margin-bottom: 75px;
+  margin-top: 56px;
+}
+
+.m2 {
+  width: 394px;
+  /* height: 150px; */
+
+  /* Body/Large */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  /* or 25px */
+
+  /* White */
+
+  color: #ffffff;
+  margin-bottom: 75px;
+}
+
+.m3 {
+  width: 810px;
+  /* height: 186px; */
+
+  /* Headings/H2 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 120%;
+  /* or 62px */
+
+  letter-spacing: -1px;
+
+  /* White */
+
+  color: #ffffff;
+  margin-bottom: 75px;
+}
+
+.m4 {
+  width: 698px;
+  height: 34px;
+
+  /* Headings/H4 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 120%;
+  /* identical to box height, or 34px */
+
+  /* White */
+
+  color: #ffffff;
+  margin-bottom: 75px;
+}
+
+.m5 {
+  width: 394px;
+  height: 25px;
+  left: 1px;
+  top: 896px;
+
+  /* Body/Large */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  /* or 25px */
+
+  /* White */
+
+  color: #ffffff;
+  margin-bottom: 75px;
+}
+
+.m6 {
+  width: 108px;
+  height: 95px;
+
+  /* Headings/H1 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 112%;
+  /* or 95px */
+
+  text-align: center;
+  letter-spacing: -1px;
+
+  /* Yellow */
+
+  color: #ffb60c;
+}
+
+.m7 {
+  width: 200px;
+  height: 34px;
+
+  /* Headings/H4 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 120%;
+  /* identical to box height, or 34px */
+
+  /* White */
+
+  color: #ffffff;
+}
+
+.m8 {
+  width: 200px;
+  height: 50px;
+
+  /* Body/Large */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  /* or 25px */
+
+  /* White */
+
+  color: #ffffff;
+}
+
+.three {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 75px;
+}
+
+.four {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-bottom: 75px;
+}

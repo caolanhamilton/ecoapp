@@ -1,0 +1,63 @@
+.whatwedo {
+  background: none;
+  color: white;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: left;
+  /* vertical-align: center; */
+}
+
+.whatwedo p {
+  width: 680px;
+  height: 50px;
+
+  /* Body/Large */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  /* or 25px */
+
+  /* Black */
+
+  color: white;
+  /* Inside auto layout */
+
+  /* flex: none;
+  order: 2;
+  flex-grow: 0; */
+}
+
+h3 {
+  /* width: 680px; */
+
+  width: 100%;
+  /* height: 184px; */
+
+  /* Headings/H3 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 120%;
+  /* or 46px */
+
+  letter-spacing: -0.5px;
+
+  /* White */
+
+  /* color: #ffffff; */
+  color: white;
+  margin-bottom: 40px;
+
+  /* Inside auto layout */
+
+  /* flex: none;
+order: 0;
+flex-grow: 0; */
+}

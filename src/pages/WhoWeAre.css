@@ -1,0 +1,210 @@
+.whoweare {
+  background: none;
+  color: white;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  /* vertical-align: center; */
+  /* border-width: 1px;
+  border-color: white;
+  border-style: solid; */
+}
+
+p {
+  width: 100%;
+}
+
+.s1 {
+  /* width: 680px; */
+  /* height: 205px; */
+
+  /* Headings/H1 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 144px;
+  line-height: 112%;
+  /* or 161px */
+
+  letter-spacing: -1px;
+
+  /* White */
+
+  color: #ffffff;
+}
+
+.s2 {
+  /* width: 680px; */
+  /* height: 205px; */
+
+  /* Headings/H1 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 120%;
+  /* or 62px */
+
+  letter-spacing: -1px;
+
+  /* Yellow */
+
+  color: #ffb60c;
+  margin-bottom: 40px;
+}
+
+.s3 {
+  /* width: 680px; */
+  /* height: 233px; */
+
+  /* Body/Large */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 120%;
+  /* or 34px */
+
+  /* White */
+
+  color: #ffffff;
+}
+
+.s4 {
+  /* width: 680px; */
+  /* height: 233px; */
+
+  /* Body/Large */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  /* or 25px */
+
+  /* White */
+
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+
+.s5 {
+  width: 680px;
+  height: 95px;
+
+  /* Headings/H1 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 112%;
+  /* or 95px */
+
+  letter-spacing: -1px;
+
+  /* Black */
+
+  color: white;
+  margin-bottom: 40px;
+
+  /* Inside auto layout */
+}
+
+.s6 {
+  /* Solutions for every stage of the product life cycle */
+
+  /* width: 680px; */
+  height: 92px;
+
+  /* Headings/H3 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 120%;
+  /* or 46px */
+
+  letter-spacing: -0.5px;
+
+  /* White */
+
+  color: white;
+  margin-bottom: 40px;
+}
+
+.s7 {
+  width: 680px;
+  height: 62px;
+
+  /* Headings/H2 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 120%;
+  /* or 62px */
+
+  letter-spacing: -1px;
+
+  /* White */
+
+  color: white;
+  margin-bottom: 40px;
+}
+
+.s8 {
+  width: 200px;
+  /* height: 68px; */
+
+  /* Headings/H4 */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 120%;
+  /* or 34px */
+
+  /* Yellow */
+
+  color: #ffb60c;
+
+  /* Inside auto layout */
+}
+
+.s9 {
+  width: 200px;
+  height: 280px;
+
+  /* Body/Small */
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  /* or 20px */
+
+  /* White */
+
+  color: #ffffff;
+  margin-bottom: 40px;
+
+  /* Inside auto layout */
+}
+
+.solutions {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

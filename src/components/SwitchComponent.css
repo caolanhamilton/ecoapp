@@ -1,0 +1,17 @@
+.switch {
+  width: 450px;
+  margin-top: 80px;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 65px;
+}
+
+.center {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
