@@ -47,17 +47,15 @@ export default function SwitchComponent(props: any) {
           <React.Fragment key={index}>
             <SwitchTxt key={index}>{item.desc}</SwitchTxt>
             <CheckBoxWrapper>
-              <label>
-                Checkbox
-                <CheckBox
-                  id={item.name}
-                  type="checkbox"
-                  onChange={(e) => handleOnChange(index, e)}
-                  checked={item.on}
-                />
-              </label>
-
-              <CheckBoxLabel htmlFor={item.name} />
+              <CheckBox
+                id={item.name}
+                type="checkbox"
+                onChange={(e) => handleOnChange(index, e)}
+                checked={item.on}
+              />
+              <CheckBoxLabel htmlFor={item.name}>
+              {" "}
+              </CheckBoxLabel>
             </CheckBoxWrapper>
           </React.Fragment>
         );
