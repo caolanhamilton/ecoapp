@@ -111,7 +111,13 @@ export default function ArticlesComponent() {
             <div className="oneArticle">
               <div className="articleType">
                 <ArticleElement>
-                  <img className="marginRight" src={iconImg} loading="eager"></img>
+                  <img
+                    className="marginRight"
+                    src={iconImg}
+                    loading="eager"
+                    height="14px"
+                    width="14px"
+                  ></img>
                   <span className="actualType">{selectedType}</span>
                 </ArticleElement>
                 <ArticleElement onClick={() => onShowArticle(element, index)}>
@@ -130,7 +136,13 @@ export default function ArticlesComponent() {
             <div className="oneArticle">
               <div className="articleType">
                 <ArticleElement>
-                  <img className="marginRight" src={iconImg} loading="eager"></img>
+                  <img
+                    className="marginRight"
+                    src={iconImg}
+                    loading="eager"
+                    height="14"
+                    width="14"
+                  ></img>
                   <span className="actualType">{element.category}</span>
                 </ArticleElement>
                 <ArticleElement onClick={() => onShowArticle(element, index)}>
