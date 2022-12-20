@@ -115,8 +115,8 @@ export default function ArticlesComponent() {
                     className="marginRight"
                     src={iconImg}
                     loading="eager"
-                    height="14"
-                    width="14"
+                    height={14}
+                    width={14}
                   ></img>
                   <span className="actualType">{selectedType}</span>
                 </ArticleElement>
@@ -140,8 +140,8 @@ export default function ArticlesComponent() {
                     className="marginRight"
                     src={iconImg}
                     loading="eager"
-                    height="14"
-                    width="14"
+                    height={14}
+                    width={14}
                   ></img>
                   <span className="actualType">{element.category}</span>
                 </ArticleElement>
