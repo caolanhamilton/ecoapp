@@ -28,7 +28,7 @@ export default function Header() {
   return (
     // <div className="outer">
     <TopPanel>
-      <MethodImg loading="eager" src={logoImg} />
+      <MethodImg width={200} height={28} loading="eager" src={logoImg} alt="method logo"/>
       <ManifestoComponent onClick={handleClick}>Manifesto</ManifestoComponent>
     </TopPanel>
     // </div>

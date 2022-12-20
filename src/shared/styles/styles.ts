@@ -209,7 +209,7 @@ export const LowImpactTxt = styled.h1`
   margin-top: 40px;
 `;
 
-export const HomeTxt = styled.h4`
+export const HomeTxt = styled.h2`
   width: 495px;
   height: 68px;
 

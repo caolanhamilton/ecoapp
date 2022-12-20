@@ -20,9 +20,9 @@ export default function WhatWeDo(): JSX.Element {
                 businesses. Without breaking our ecosystems further.
             </h3>
 
-            <img src={image} alt="Our clients" loading="eager"/>
+            <img src={image} height={810} width={537} alt="Our clients" loading="eager"/>
             <img height={1500} width={1000} style={{zIndex: -1, position: "absolute", opacity: 0, width: '1000px', height: '1500px'}} src={ecoImage}
-                 loading="eager"/>
+                 loading="eager" alt="eco image"/>
 
             <div style={{margin: "auto"}}>
                 <ButtonComponent

@@ -109,7 +109,7 @@ export default function Home() {
           </HomeSub>
           <div className="arrow">
             <div>
-              <Arrow src={arrowImg}></Arrow>
+              <Arrow width={"16"} height={"121"} src={arrowImg} alt="arrow pointing down"></Arrow>
             </div>
             <HomeTxt>Scroll to discover</HomeTxt>
           </div>

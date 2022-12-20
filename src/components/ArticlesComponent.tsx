@@ -117,6 +117,7 @@ export default function ArticlesComponent() {
                     loading="eager"
                     height={14}
                     width={14}
+                    alt="icon image for article"
                   ></img>
                   <span className="actualType">{selectedType}</span>
                 </ArticleElement>
@@ -142,6 +143,7 @@ export default function ArticlesComponent() {
                     loading="eager"
                     height={14}
                     width={14}
+                    alt="icon image for article"
                   ></img>
                   <span className="actualType">{element.category}</span>
                 </ArticleElement>
