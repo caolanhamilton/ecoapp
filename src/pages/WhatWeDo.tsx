@@ -21,7 +21,7 @@ export default function WhatWeDo(): JSX.Element {
             </h3>
 
             <img src={image} alt="Our clients" loading="eager"/>
-            <img style={{zIndex: -1, position: "absolute", opacity: 0, width: '1000px', height: '1500px'}} src={ecoImage}
+            <img height="1500" width="1000" style={{zIndex: -1, position: "absolute", opacity: 0, width: '1000px', height: '1500px'}} src={ecoImage}
                  loading="eager"/>
 
             <div style={{margin: "auto"}}>
