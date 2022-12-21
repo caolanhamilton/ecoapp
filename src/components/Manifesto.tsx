@@ -33,10 +33,10 @@ export default function Manifesto() {
     // <div className={mycontext.name}>
     <LeftSlidingDrawer show={mycontext.manifestoShow}>
       <TopPanel>
-        <MethodImg height={28}  width={200} src={logoImg} alt="Method"/>
-        <a href="javascript:void(0)" className="closebtn" onClick={handleClick}>
+        <a href="/" className="closebtn" onClick={handleClick}>
           &times;
         </a>
+        <MethodImg height={28} width={200} src={logoImg} alt="Method" />
       </TopPanel>
       <SlidingDrawerBody>
         <p className="m1">Reducing our digital carbon footprint</p>

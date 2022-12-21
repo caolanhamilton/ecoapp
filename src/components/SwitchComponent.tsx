@@ -52,10 +52,9 @@ export default function SwitchComponent(props: any) {
                 type="checkbox"
                 onChange={(e) => handleOnChange(index, e)}
                 checked={item.on}
+                placeholder={item.name}
               />
-              <CheckBoxLabel htmlFor={item.name}>
-              {" "}
-              </CheckBoxLabel>
+              <CheckBoxLabel htmlFor={item.name}></CheckBoxLabel>
             </CheckBoxWrapper>
           </React.Fragment>
         );
